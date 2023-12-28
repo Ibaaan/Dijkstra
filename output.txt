@@ -1,0 +1,2 @@
+Result => 20 
+Reversed Polish Notation => 2 2 + 2 ^ 4 +
